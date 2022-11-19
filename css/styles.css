@@ -1,0 +1,27 @@
+body{
+    font-family: "Helvetica",sans-serif;
+    background-image: url("../images/background-image.jpeg");
+}
+
+a{
+    color: #112d4e;
+}
+
+.profile{
+    height: 150px;
+    border-radius: 50%;
+    border: 10px solid #FEDE00;
+}
+
+.header{
+    padding: 40px;
+    text-align: center;
+    background: #f9f7f7;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.column-2{
+    float: left;
+    
+}
