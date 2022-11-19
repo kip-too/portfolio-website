@@ -44,3 +44,70 @@ a{
  background-size: cover;
  background-position: center;
 }
+
+.section-heading{
+    text-align: center;
+    color: #102C4E;
+    margin-top: 150px;
+    margin-bottom: 70px;
+    font-size: 35px;
+
+}
+.column-4{
+    float: left;
+    width: 21%;
+    padding: 10px;
+    margin: 20px;
+    height: 250px;
+}
+.project-1{
+    background-color: aqua;
+
+}
+.project-2{
+    background-color: white;
+
+}
+.project-3{
+    background-color: #209BFF;
+
+}
+.project-4{
+    background-color: #112d4e;
+}
+.project-5{
+    background-color: #F9f7f7;
+
+}
+.project-6{
+    background-color: #ffffff00;
+
+}
+.project-7{
+    background-color: #209BFF;
+}
+.project-8{
+    background-color: lime;
+}
+.project-text{
+    text-align: center;
+    font-size: 50px;
+}
+.project-2:hover{
+    background-color: #FEDE00;
+}
+.project-3:hover{
+    background-color: #FEDE00;
+}
+.project-4:hover{
+    background-color: #FEDE00;
+}
+.project-5:hover{
+    background-color: #FEDE00;
+}
+.project-6:hover{
+    background-color: #FEDE00;
+}
+.project-7:hover{
+    background-color: #FEDE00;
+}
